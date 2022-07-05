@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "Fantasia#0727",
+        "version": "1.0.0",
+        "name": "pink hell"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -47105,
+        "statusbar": -65281,
+        "background": -65281,
+        "background_secondary": -65294,
+        "mention_highlight": -1767707,
+        "active_channel": -65281,
+        "input_background": -65281,
+        "blocked_bg": -65281
+    },
+    "colors": {
+        "primary_dark_200": -3078029,
+        "primary_dark_400": -3600243,
+        "primary_dark_800": -851713,
+        "uikit_btn_bg_color_selector_brand": -54552,
+        "uikit_btn_bg_color_selector_green": -65286,
+        "uikit_btn_bg_color_selector_red": -47617,
+        "uikit_settings_item_text_color_dark": -65339
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
